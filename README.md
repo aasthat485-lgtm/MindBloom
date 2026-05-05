@@ -25,7 +25,6 @@ A `mindbloom.db` SQLite file is auto-created on first run — no external DB nee
 
 ---
 
-## Quick start (5 minutes)
 
 ### 1. Prerequisites
 - **Node.js 18+** — download from https://nodejs.org
